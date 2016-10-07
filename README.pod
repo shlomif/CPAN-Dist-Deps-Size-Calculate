@@ -1,0 +1,15 @@
+=encoding utf8
+
+=head1 Find and Extract The Dependencies of a CPAN Distribution
+
+See L<“Estimating the Size of the Perl 5 MojoMojo Wiki”|http://shlomif-tech.livejournal.com/52885.html> . I probably need to write one consistent build process.
+
+=head1 COPYRIGHT AND LICENSE
+
+This software is Copyright (c) 2013 by Shlomi Fish.
+
+This is free software, licensed under:
+
+  The MIT (X11) License
+
+=cut
