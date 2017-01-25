@@ -10,6 +10,6 @@ This software is Copyright (c) 2013 by Shlomi Fish.
 
 This is free software, licensed under:
 
-  The MIT (X11) License
+  The MIT (Expat) License
 
 =cut
